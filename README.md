@@ -19,4 +19,5 @@
   <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=AmazonAWS&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=GoogleCloud&logoColor=white&style=for-the-badge" />
 </div>

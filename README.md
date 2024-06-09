@@ -20,6 +20,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
   <br />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=AmazonAWS&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=AmazonWebServices&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GCP-4285F4?logo=GoogleCloud&logoColor=white&style=for-the-badge" />
 </div>
